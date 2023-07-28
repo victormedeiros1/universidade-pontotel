@@ -1,5 +1,3 @@
 Este é um arquivo de texto que vou subir para o repositório remoto
 
 Estou escrevendo isso de outra branch e subindo para o repositório remoto
-
-Esse texto está sendo escrito na branch main depois de mergeada com a dev
