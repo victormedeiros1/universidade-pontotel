@@ -2,6 +2,8 @@
 
 Preciso que você faça exemplos com alguns comandos básicos do Git, brinque um pouco com os poderes do Git e veja o que consegue fazer:
 
+- Crie um repositório
+- Faça um clone do repositório remoto para seu ambiente local
 - Crie arquivos do seu ambiente local
 - Veja o ```status``` dos seus arquivos ainda não trackeados
 - Trackei arquivos depois resete-os
